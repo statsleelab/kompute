@@ -21,12 +21,16 @@ To load this package, enter the follwoing command to the R console:
 
       library(kompute)
 
-## Example
+## View Vignettes
 
-This is a basic example which shows you how to solve a common problem:
+Click __Quick__ to view each vignette in a web browser.
 
-``` r
-library(kompute)
-## basic example code
-```
+##### Example 1) Imputing OF phenotype z-scores ([Quick View](https://cdn.rawgit.com/dleelab/iasvaExamples/d4d63ce3/inst/doc/detecting_hidden_heterogeneity_iasvaV0.95.html))
+
+##### Example 2) Simulation Studies ([Quick View](https://cdn.rawgit.com/dleelab/iasvaExamples/d4d63ce3/inst/doc/detecting_hidden_heterogeneity_iasvaV0.95.html))
+
+##### Example 3) etc ([Quick View](https://cdn.rawgit.com/dleelab/iasvaExamples/d4d63ce3/inst/doc/detecting_hidden_heterogeneity_iasvaV0.95.html))
+
+
+## Disclaimer of Warranties and Liabilities
 
