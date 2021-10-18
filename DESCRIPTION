@@ -1,11 +1,12 @@
 Package: kompute
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Imputation of Association Z-scores of Missing Phenotypes
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Donghyung Lee <leed13@miamioh.edu>, Coby Warkentin <warkenca@miamioh.edu>
+Maintainer: Donghyung Lee <leed13@miamioh.edu>, Coby Warkentin <warkenca@miamioh.edu>
+Description: kompute provide an effective way of imputing association Z-scores of
+    missing phenotypes in high-throughput model organism data such as IMPC data.
+License: GPL-2
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 7.1.0
