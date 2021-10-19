@@ -15,7 +15,7 @@ To install kompute package, start R and enter the following commands:
       library(devtools)
       devtools::install_github("dleelab/kompute")
 
-## Laad the package
+## Load the package
 
 To load this package, enter the follwoing command to the R console:
 
