@@ -1,6 +1,6 @@
 # kompute
 
-kompute provide a efficient way of imputing assocation Z-scores of missing phenotypes in IMPC data
+imputing assocation Z-scores of missing phenotypes in IMPC data
 
 ## Citing kompute
 
