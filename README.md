@@ -17,7 +17,7 @@ To install kompute package, start R and enter the following commands:
 
 ## Load the package
 
-To load this package, enter the follwoing command to the R console:
+To load this package, enter the following command to the R console:
 
       library(kompute)
 
@@ -34,3 +34,4 @@ Click __Quick__ to view each vignette in a web browser.
 
 ## Disclaimer of Warranties and Liabilities
 
+(This is a test line added by Coby)
