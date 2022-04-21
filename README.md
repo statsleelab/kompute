@@ -31,7 +31,10 @@ Click __Quick__ to view each vignette in a web browser.
 
 ##### Example 3) etc ([Quick View](https://cdn.rawgit.com/dleelab/iasvaExamples/d4d63ce3/inst/doc/detecting_hidden_heterogeneity_iasvaV0.95.html))
 
+## Kompute Examples
+
+Several data examples simulating the effectiveness of the KOMPUTE function can be found [here](https://github.com/warkenca/komputeExamples)
+
 
 ## Disclaimer of Warranties and Liabilities
 
-(This is a test line added by Coby)
