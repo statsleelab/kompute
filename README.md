@@ -23,4 +23,4 @@ To load this package, enter the following command to the R console:
 
 ## Kompute Examples
 
-Several examples showing the effectiveness of the KOMPUTE imputation method can be found [here](https://github.com/statsleelab/komputeExamples)
+Several examples showing the effectiveness of the KOMPUTE imputation method can be found [here](https://statsleelab.github.io/komputeExamples/)
