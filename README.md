@@ -1,6 +1,6 @@
 # KOMPUTE
 
-KOMPUTE: Imputing summary statsitics of missing phenotypes in high-throughput model organism data
+KOMPUTE: Imputing summary statistics of missing phenotypes in high-throughput model organism data
 
 ## Citing KOMPUTE
 
