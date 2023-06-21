@@ -25,4 +25,5 @@
 #' str(OF_Zscore_Mat)
 #' }
 #'
-"OF_Zscore_Mat"
+#' @name OF_Zscore_Mat
+NULL

@@ -25,4 +25,5 @@
 #' str(CC_Zscore_Mat)
 #' }
 #'
-"CC_Zscore_Mat"
+#' @name CC_Zscore_Mat
+NULL

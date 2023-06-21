@@ -27,4 +27,5 @@
 #' str(CC_Pheno_Cor)
 #' }
 #'
-"CC_Pheno_Cor"
+#' @name CC_Pheno_Cor
+NULL

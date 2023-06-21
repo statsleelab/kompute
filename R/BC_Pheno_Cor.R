@@ -27,4 +27,5 @@
 #' str(BC_Pheno_Cor)
 #' }
 #'
-"BC_Pheno_Cor"
+#' @name BC_Pheno_Cor
+NULL

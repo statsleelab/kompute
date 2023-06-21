@@ -27,4 +27,5 @@
 #' str(OF_Pheno_Cor)
 #' }
 #'
-"OF_Pheno_Cor"
+#' @name OF_Pheno_Cor
+NULL

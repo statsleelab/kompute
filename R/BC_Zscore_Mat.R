@@ -25,4 +25,5 @@
 #' str(BC_Zscore_Mat)
 #' }
 #'
-"BC_Zscore_Mat"
+#' @name BC_Zscore_Mat
+NULL
