@@ -7,11 +7,11 @@
 kompute(zmat, pheno.cor, ridge = 0.001)
 }
 \arguments{
-\item{zmat}{The matrix of Z-scores, row: number of phenotypes, col: number of genes}
+\item{zmat}{The matrix of Z-scores, row: number of genes, col: number of phenotypes}
 
 \item{pheno.cor}{The phenotype correlation matrix}
 
-\item{ridge}{The ridge panelty}
+\item{ridge}{The ridge penalty}
 }
 \description{
 This fuction estimates association Z-scores of unmeasured phenotypes.
