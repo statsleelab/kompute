@@ -1,14 +1,15 @@
 #' Imputation of association Z-scores of missing phenotypes
 #'
 #' This fuction estimates association Z-scores of unmeasured phenotypes.
-#' @param zmat The matrix of Z-scores, row: number of phenotypes, col: number of genes
+#' @param zmat The matrix of Z-scores, row: number of genes, col: number of phenotypes
 #' @param pheno.cor The phenotype correlation matrix
-#' @param ridge The ridge panelty
+#' @param ridge The ridge penalty
 #' @export
 
 kompute <- function(zmat, pheno.cor, ridge=0.001){
   # error handling
   stopifnot(is.matrix(zmat), is.matrix(pheno.cor), is.numeric(ridge))
+  zmat <- t(zmat)
   message("\nKOMPute running...")
   npheno <- nrow(zmat)
   ngene <- ncol(zmat)
@@ -62,5 +63,5 @@ kompute <- function(zmat, pheno.cor, ridge=0.001){
   message("# of genes: ", ngene)
   message("# of phenotypes: ", npheno)
   message("# of imputed Z-scores: ", num.imputed)
-  return(list(zmat=zmat, infomat=infomat))
+  return(list(zmat=t(zmat), infomat=t(infomat)))
 }
