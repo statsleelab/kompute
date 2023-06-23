@@ -24,6 +24,7 @@ knitr::opts_chunk$set(dpi = 300)
 
 The `kompute` R package is specifically designed to handle the imputation of missing summary statistics in high-throughput model organism data, such as the International Mouse Phenotyping Consortium (IMPC) dataset. Despite the IMPC's extensive gene-phenotype cataloging efforts, exploring the entirety of the mouse genome remains a formidable task due to the volume of potential gene-phenotype pairs and the constraints of resource and time-intensive testing in a controlled environment. Certain gene knockouts can lead to early embryonic lethality or developmental abnormalities, rendering numerous phenotypes unmeasurable. Consequently, the IMPC dataset, though rich, is still considerably incomplete. `kompute` addresses this by leveraging the conditional distribution properties of multivariate normal data, allowing it to impute missing phenotype association statistics directly. The method employs only the summary statistics of measured phenotypes and the corresponding estimated phenotype correlations as proxies for genetic correlations between phenotypes.
 
+
 ## Citing kompute
 
 Warkentin et al. KOMPUTE: Imputing summary statistics of missing phenotypes in high-throughput model organism data. bioRxiv. doi: https://doi.org/10.1101/2023.01.12.523855
