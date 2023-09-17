@@ -10,7 +10,7 @@ kompute <- function(zmat, pheno.cor, ridge=0.001){
   # error handling
   stopifnot(is.matrix(zmat), is.matrix(pheno.cor), is.numeric(ridge))
   zmat <- t(zmat)
-  message("\nKOMPute running...")
+  message("\nKOMPUTE running...")
   npheno <- nrow(zmat)
   ngene <- ncol(zmat)
   infomat <- matrix(NA,nrow=npheno,ncol=ngene)
