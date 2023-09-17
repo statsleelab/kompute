@@ -28,8 +28,8 @@ genetic correlations between phenotypes.
 ## Citing kompute
 
 Warkentin et al. KOMPUTE: Imputing summary statistics of missing
-phenotypes in high-throughput model organism data. bioRxiv. doi:
-<https://doi.org/10.1101/2023.01.12.523855>
+phenotypes in high-throughput model organism data. Bioinformatics
+Advances. doi: <https://doi.org/10.1093/bioadv/vbad100>
 
 ## Authors
 
